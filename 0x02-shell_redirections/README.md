@@ -1,2 +1,1 @@
-<<<<<<< HEAD
-Shell Redirections
+Shell Redirection
